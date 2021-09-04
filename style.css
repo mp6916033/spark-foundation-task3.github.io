@@ -1,0 +1,69 @@
+*{
+    margin:0; 
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'ARIALt', sans-serif;
+  }
+  
+  .green{
+    background-color: whitesmoke;
+  }
+  .green1{
+    background-color: red;
+  }
+  .green2{
+    background-color: greenyellow;
+  }
+  .img{
+    background-color: springgreen;
+  }
+  #bd{
+    background-color: orangered;
+  }
+  
+  
+  
+  main{
+    width:100%; 
+    height:85vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color :whitesmoke;
+    text-align: center;
+  }
+  .head{
+    font-size: 300px;
+    color: whitesmoke;
+  }
+   .green1{
+    font-size: 100px;
+    color: gold;
+  } 
+   #button1
+  {
+      display: block;
+      background:greenyellow;
+      color:red;
+       font-family: Georgia, serif;;
+      font-size: 34px;
+      block-size: 44px;
+    border-radius: 500000000px;
+       text-align: center;
+       margin-left: 0px;
+       align-items: left;
+       size: 500px;
+  }
+    header
+  {
+    width:100%;
+    height:100vh;
+    background-size:cover;
+    background-image: url('donate.jpg');
+    background-repeat: repeat;
+    
+  }
+  
+  
+   
+   
